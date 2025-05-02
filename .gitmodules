@@ -1,0 +1,8 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/yassineeljal/projet_backend.git
+	branch = main
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/yassineeljal/Projet.git
+	branch = main
